@@ -4,6 +4,8 @@ A small End-Point to read an Input Json file and save its content within a Datab
 
 ## Installation
 
+Rename the .env.example in .env;
+
 ```bash
 composer require symfony/orm-pack
 
