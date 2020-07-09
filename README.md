@@ -16,4 +16,8 @@ php bin/console doctrine:migrations:migrate
 
 ## Usage
 
+```bash
+symfony server:start   
+```
+
 Call a /storeData to start;
