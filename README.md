@@ -1,4 +1,4 @@
-# Read json file and Populate 
+# Read json file and Populate Database
 
 A small End-Point to read an Input Json file and save its content within a Database;
 
