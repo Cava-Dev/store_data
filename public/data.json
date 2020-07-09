@@ -1,0 +1,154 @@
+{
+    "fatturaGenerale": [
+        {
+            "id_client": "0",
+            "name_invoice": "Customer Invoice Number 0",
+            "row": [
+                {
+                    "description": "customer number 0 First description",
+                    "qta": "12",
+                    "amount": "12",
+                    "total_amount": "121"
+                },
+                {
+                    "description": "customer number 0 Second description",
+                    "qta": "32",
+                    "amount": "23",
+                    "total_amount": "223"
+                },
+                {
+                    "description": "customer number 0 Third description",
+                    "qta": "23",
+                    "amount": "66",
+                    "total_amount": "666"
+                },
+                {
+                    "description": "customer number 0 Fourth description",
+                    "qta": "1234",
+                    "amount": "999",
+                    "total_amount": "999"
+                }
+            ]
+        },
+        {
+            "id_client": "1",
+            "name_invoice": "Customer Invoice Number 1",
+            "row": [
+                {
+                    "description": "customer number 1 First description",
+                    "qta": "12",
+                    "amount": "12",
+                    "total_amount": "121"
+                },
+                {
+                    "description": "customer number 1 Second description",
+                    "qta": "32",
+                    "amount": "23",
+                    "total_amount": "223"
+                },
+                {
+                    "description": "customer number 1 Third description",
+                    "qta": "23",
+                    "amount": "66",
+                    "total_amount": "666"
+                },
+                {
+                    "description": "customer number 1 Fourth description",
+                    "qta": "1234",
+                    "amount": "999",
+                    "total_amount": "999"
+                }
+            ]
+        },
+        {
+            "id_client": "2",
+            "name_invoice": "Customer Invoice Number 0 2",
+            "row": [
+                {
+                    "description": "customer number 2 First description",
+                    "qta": "12",
+                    "amount": "12",
+                    "total_amount": "121"
+                },
+                {
+                    "description": "customer number 2 Second description",
+                    "qta": "32",
+                    "amount": "23",
+                    "total_amount": "223"
+                },
+                {
+                    "description": "customer number 2 Third description",
+                    "qta": "23",
+                    "amount": "66",
+                    "total_amount": "666"
+                },
+                {
+                    "description": "customer number 2 Fourth description",
+                    "qta": "1234",
+                    "amount": "999",
+                    "total_amount": "999"
+                }
+            ]
+        },
+        {
+            "id_client": "1",
+            "name_invoice": "Seconda Invoice Customer Number 1",
+            "row": [
+                {
+                    "description": "1 customer number 1 First description",
+                    "qta": "12",
+                    "amount": "12",
+                    "total_amount": "121"
+                },
+                {
+                    "description": "2 customer number 1 Second description",
+                    "qta": "32",
+                    "amount": "23",
+                    "total_amount": "223"
+                },
+                {
+                    "description": "3 customer number 1 Third description",
+                    "qta": "23",
+                    "amount": "66",
+                    "total_amount": "666"
+                },
+                {
+                    "description": "4 customer number 1 Fourth description",
+                    "qta": "1234",
+                    "amount": "999",
+                    "total_amount": "999"
+                }
+            ]
+        },
+        {
+            "id_client": "3",
+            "name_invoice": "Customer Invoice Number 3",
+            "row": [
+                {
+                    "description": "customer number 3 First description",
+                    "qta": "12",
+                    "amount": "12",
+                    "total_amount": "121"
+                },
+                {
+                    "description": "customer number 3 Second description",
+                    "qta": "32",
+                    "amount": "23",
+                    "total_amount": "223"
+                },
+                {
+                    "description": "customer number 3 Third description",
+                    "qta": "23",
+                    "amount": "66",
+                    "total_amount": "666"
+                },
+                {
+                    "description": "customer number 3 Fourth description",
+                    "qta": "1234",
+                    "amount": "999",
+                    "total_amount": "999"
+                }
+            ]
+        }
+    ]
+}

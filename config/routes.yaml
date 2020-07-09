@@ -1,0 +1,3 @@
+store_data:
+  path: /storeData
+  controller: App\Controller\StoreDataController::index
